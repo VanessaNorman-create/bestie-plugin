@@ -1,5 +1,5 @@
 {
-  "name": "bestie",
+  "name": "bestie-cowork",
   "description": "Private Claude Co-Work plugin for Bestie App members. Connect your Co-Work to your own Bestie App with a one-time connection code from the Start here page.",
   "author": {
     "name": "Vanessa Norman",
@@ -13,5 +13,11 @@
       "url": "https://vanessa-norman-compliance.vercel.app/api/mcp"
     }
   },
-  "keywords": ["bestie", "care-business", "connect", "writing"]
+  "keywords": [
+    "bestie",
+    "care-business",
+    "connect",
+    "writing"
+  ],
+  "version": "0.3.1"
 }
