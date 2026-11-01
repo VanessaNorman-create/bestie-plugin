@@ -1,0 +1,6 @@
+{
+  "bestie": {
+    "type": "http",
+    "url": "https://vanessa-norman-compliance.vercel.app/api/mcp"
+  }
+}
