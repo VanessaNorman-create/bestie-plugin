@@ -1,5 +1,5 @@
 {
-  "name": "bestie-cowork",
+  "name": "bestie",
   "description": "Private Claude Co-Work plugin for Bestie App members. Connect your Co-Work to your own Bestie App with a one-time connection code from the Start here page.",
   "author": {
     "name": "Vanessa Norman",
@@ -19,5 +19,5 @@
     "connect",
     "writing"
   ],
-  "version": "0.3.1"
+  "version": "0.3.2"
 }
