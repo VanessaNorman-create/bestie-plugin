@@ -1,5 +1,5 @@
 ---
-description: Get started with a plain-words tour of what this plugin does, and a check that you are connected.
+description: Set up your organisation in chat, a few questions at a time: your business details first, then your brand and voice.
 disable-model-invocation: false
 ---
 
