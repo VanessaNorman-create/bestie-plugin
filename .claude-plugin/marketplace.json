@@ -10,7 +10,7 @@
       "name": "bestie",
       "source": "./bestie",
       "description": "The Bestie App as a Claude Co-Work plugin. Connect to your Bestie App, check your connection, and write your content with your own business details. Requires a member connection code, inert without one.",
-      "version": "0.3.13"
+      "version": "0.3.14"
     }
   ]
 }
