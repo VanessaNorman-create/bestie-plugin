@@ -1,5 +1,5 @@
 ---
-description: Bring in your brand and voice answers from a document you already have, as a Word file or a CSV. You see every answer back first, and nothing is saved until you say yes.
+description: Bring in your brand and voice answers from a document you already have, as a Word file, a CSV, a PDF or a picture. You see every answer back first, and nothing is saved until you say yes.
 disable-model-invocation: false
 ---
 

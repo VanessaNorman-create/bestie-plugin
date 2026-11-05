@@ -1,5 +1,5 @@
 ---
-description: Set up your organisation from a document you already have, as a Word file or a CSV. You see every answer back first, and nothing is saved until you say yes.
+description: Set up your organisation from a document you already have, as a Word file, a CSV, a PDF or a picture. You see every answer back first, and nothing is saved until you say yes.
 disable-model-invocation: false
 ---
 

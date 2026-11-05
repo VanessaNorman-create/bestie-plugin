@@ -1,5 +1,5 @@
 ---
-description: Bring in a Business Health Check you have already completed, as a Word file or a CSV. You see every step back line by line, and nothing is saved until you say yes.
+description: Bring in a Business Health Check you have already completed, as a Word file, a CSV, a PDF or a picture. You see every step back line by line, and nothing is saved until you say yes.
 disable-model-invocation: false
 ---
 
